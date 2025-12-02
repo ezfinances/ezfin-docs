@@ -69,13 +69,14 @@ Este documento apresenta o backlog inicial do projeto, contendo 10 histórias de
 
 ---
 
-### 10. Gerar Relatórios Financeiros
+### 10. Fazer transações entre contas
 - **Como** usuário autenticado  
-- **Quero** gerar relatórios por período e categoria  
-- **Para** analisar meus hábitos de consumo
+- **Quero** fazer transações entre minhas contas  
+- **Para** controlar melhor minha situação financeira
 
 ---
 
 ## 🔹 Ilustração
 
 ![Histórias de Usuário](./imagens/historiasUsuário.jpg)
+
